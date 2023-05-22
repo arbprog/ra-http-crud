@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ra-http-crud/static/css/main.c381e7f3.css",
+    "main.js": "/ra-http-crud/static/js/main.3e08295f.js",
+    "index.html": "/ra-http-crud/index.html",
+    "main.c381e7f3.css.map": "/ra-http-crud/static/css/main.c381e7f3.css.map",
+    "main.3e08295f.js.map": "/ra-http-crud/static/js/main.3e08295f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c381e7f3.css",
+    "static/js/main.3e08295f.js"
+  ]
+}
