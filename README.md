@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/dbm0hacyne106f6j?svg=true)](https://ci.appveyor.com/project/arbprog/ra-http-crud)
